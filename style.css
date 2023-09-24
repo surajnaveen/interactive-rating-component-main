@@ -187,10 +187,3 @@ button:hover{
         height: 40vh;
     }
 }
-
-@media screen and (min-width:1440px){
-    .main{
-        margin-top: 25%;
-        height: 38vh;
-    }
-}
