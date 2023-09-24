@@ -19,7 +19,7 @@ p,.rate{
 }
 
 span{
-    background-color: hsl(216, 12%, 54%);
+    background-color: #4c5454;
     border-radius: 100%;
 }
 
@@ -41,12 +41,11 @@ body{
 button{
     background-color: hsl(25, 97%, 53%);
     border: none;
-    height: 17%;
+    height: 13%;
     width:90%;
     margin-left: 5%;
-    border-radius: 20px;
+    border-radius: 35px;
     color: hsl(0, 0%, 100%);
-    letter-spacing: 1rem;
     font-size: 1rem;
 }
 
@@ -68,12 +67,12 @@ button:hover{
 .main{
     display: flex;
     flex-direction: column;
-    gap: 25px;
+    gap: 28px;
     margin-top: 10%;
     width: 25%;
     height: 50vh;
     padding: 30px;
-    background-color: hsl(213, 19%, 18%);
+    background-color: #1e252f;
     border-radius: 30px;
 }
 .RatingArea{
